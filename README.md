@@ -2,7 +2,7 @@
 
 ## 目錄 ##
 
-1. 初探Mongo DB
+1. [初探Mongo DB](https://github.com/eden90267/mongodb-learning-1/tree/master/the_first_exporation_mongodb)
 2. [Mongo DB 單機架設](https://github.com/eden90267/mongodb-learning-1/tree/master/single_machine_install)
 3. [Mongo DB 叢集設置](https://github.com/eden90267/mongodb-learning-1/tree/master/cluster_machine_setting)
 
